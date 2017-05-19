@@ -1,17 +1,17 @@
 {
-    "name": "overtrue/pinyin",
+    "name": "huihuangjiuai/pinyin",
     "description": "Chinese to pinyin translator.",
     "keywords": [
         "chinese",
         "pinyin",
         "cn2pinyin"
     ],
-    "homepage": "https://github.com/overtrue/pinyin",
+    "homepage": "https://github.com/huihuangjiuai/pinyin",
     "license": "MIT",
     "authors": [
         {
             "name": "Carlos",
-            "homepage": "http://github.com/overtrue"
+            "homepage": "http://github.com/huihuangjiuai"
         }
     ],
     "autoload": {
